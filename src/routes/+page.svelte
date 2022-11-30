@@ -127,8 +127,8 @@
             </section>
             <section class="mt-3">
               <a class="underline text-[#392A68]" href="mailto:jacob@jlab.nl">jacob@jlab.nl</a> / 
-              <a class="underline text-[#392A68]" href="#">GitHub</a> / 
-              <a class="underline text-[#392A68]" href="#">LinkedIn</a>
+              <a class="underline text-[#392A68]" href="https://github.com/jvzijp">GitHub</a> / 
+              <a class="underline text-[#392A68]" href="https://linkedin.com/in/jacobvanzijp">LinkedIn</a>
             </section>
             <section class="mt-16">
               <div class="grid grid-cols-3">
