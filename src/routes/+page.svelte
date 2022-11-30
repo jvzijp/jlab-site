@@ -1,5 +1,6 @@
+
 <div class="container max-w-3xl mx-auto mt-5">
-    <div class="bg-white mx-3 rounded-t-3xl rounded-b-2xl drop-shadow-xl bg-clip-border bg-[url('jacob@1x.png')] bg-[length:40%]  bg-no-repeat bg-right-bottom">
+    <div class="bg-white mx-3 rounded-t-3xl rounded-b-2xl drop-shadow-xl bg-clip-border bg-[url('./jacob@1x.png')] bg-[length:40%]  bg-no-repeat bg-right-bottom">
         <header class="from-[#251659] to-[#392A68] bg-gradient-to-br rounded-t-2xl p-8  text-white">
           <svg class="inline-block" xmlns="http://www.w3.org/2000/svg" width="42" viewBox="131.27050638198853 153.84242725372312 52.070001125335665 51.413055419921875" preserveAspectRatio="none">
             <g>
