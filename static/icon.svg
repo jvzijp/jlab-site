@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="136.44736633942034" height="175.9219181266905" viewBox="866.0090193306721 228.97986577181217 136.44736633942034 175.9219181266905" preserveAspectRatio="none">
+  <g>
+    <defs>
+      <path id="s-Path_1-d1224" d="M981.652935277328 228.97986577181217 L990.0364113245391 228.97986577181217 C996.8498022855151 228.97986577181217 1002.4563758389262 234.5438037848931 1002.4563758389262 241.30538188685034 L1002.4563758389262 349.67912872600886 C1002.4563758389263 364.385561097766 984.0520961030637 391.0604026845638 969.2329707629408 391.0604026845638 L960.8494947157296 391.0604026845638 C954.0361037547534 391.0604026845638 948.4295302013425 385.4964646714829 948.4295302013425 378.7348865695257 L948.4295302013425 271.0898035507845 C948.4295302013425 256.38337117902745 966.8338099372049 228.97986577181217 981.652935277328 228.97986577181217 Z "></path>
+      <linearGradient id="s-Path_1-d1224-gradient" x1="949.6274172570254" y1="283.0745075307716" x2="1001.6577844684709" y2="329.8330950351118" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#251659" offset="0.0%" stop-opacity="0.8"></stop>
+        <stop stop-color="#251659" offset="100.0%" stop-opacity="1.0"></stop>
+      </linearGradient>
+    </defs>
+    <g style="mix-blend-mode:normal">
+      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#s-Path_1-d1224" fill="url(#s-Path_1-d1224-gradient)" fill-opacity="1.0"></use>
+    </g>
+  </g>
+  <g>
+    <defs>
+      <ellipse cx="916.3099408030289" cy="368.4769986962765" rx="27.013422818792037" ry="27.01342281879198" id="s-Ellipse_1-d1224-path"></ellipse>
+    </defs>
+    <g transform="rotate(332.54893133440845 916.3099408030289 368.4769986962765)" style="mix-blend-mode:normal">
+      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#s-Ellipse_1-d1224-path" fill="#251659" fill-opacity="1.0"></use>
+    </g>
+  </g>
+  <g>
+    <defs>
+      <ellipse cx="902.4338045328983" cy="341.76551716964127" rx="27.01342281879198" ry="27.013422818792037" id="s-Ellipse_2-d1224-path"></ellipse>
+    </defs>
+    <g transform="rotate(332.54893133440845 902.4338045328982 341.76551716964127)" style="mix-blend-mode:normal">
+      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#s-Ellipse_2-d1224-path" fill="#0FF2F2" fill-opacity="0.8"></use>
+    </g>
+  </g>
+</svg>

@@ -1,3 +1,8 @@
+<svelte:head>
+  <title>JLAB - Freelance software architect / engineer / consultant</title>
+  <meta name="description" content="Freelance software architect / developer / consultant. JLAB door Jacob van Zijp.">
+</svelte:head>
+
 <div class="container max-w-3xl mx-auto mt-6 lg:mt-16">
     <div class="bg-white mx-6 rounded-t-3xl rounded-b-2xl relative shadow-[0_0_90px_10px_rgba(0,0,0,0.6)] bg-clip-border bg-[url('/jacob@1x.png')] bg-[length:35%]  bg-no-repeat bg-right-bottom">
         <header class="from-[#251659] to-[#392A68] bg-gradient-to-br rounded-t-2xl p-8  text-white">
